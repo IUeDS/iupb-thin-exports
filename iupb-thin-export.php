@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: Candela Thin Exports
-Description: A simple plugin to export Pressbooks books as thin cartridges with deep links to each page.
+Plugin Name: IU Pressbooks Thin Exports
+Description: A simple plugin to export Pressbooks books as thin cartridges with deep links to each page. Modified version of Candela CC Exports plugin developed by Lumen Learning
 Version: 0.1
-Author: Lumen Learning
-Author URI: http://lumenlearning.com
+Author: Indiana University UITS eLearning Design and Services
+Author URI: http://teachingonline.iu.edu
 */
 ?>
 <?php

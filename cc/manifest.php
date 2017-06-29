@@ -330,7 +330,7 @@ XML;
   private function get_guids($page) {
     if ($this->guids_cache === null) {
       global $wpdb;
-      $sql = $wpdb->prepare( "SELECT post_id, meta_value FROM {$wpdb->postmeta} WHERE meta_key = %s", 'CANDELA_OUTCOMES_GUID' );
+      $sql = $wpdb->prepare( "SELECT post_id, meta_value FROM {$wpdb->postmeta} WHERE meta_key = %s", 'IUPB_OUTCOMES_GUID' );
 
       foreach ($wpdb->get_results( $sql, ARRAY_A ) as $val) {
         $val['meta_value'] = str_replace(' ', '', $val['meta_value']);
