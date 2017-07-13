@@ -8,7 +8,7 @@ Primary differences:
 
 ## Requirements
 
-Requires the core WordPress LTI plugin from Lumen Learning (https://github.com/lumenlearning/lti) as well as the IU variant of Lumen's Pressbooks LTI plugin (also in this GitHub account).
+Requires the core WordPress LTI plugin from Lumen Learning (https://github.com/lumenlearning/lti) as well as the IU variant of Lumen's Pressbooks LTI plugin (https://github.com/IUeDS/iupb-lti).
 
 ## Publishing to IU's Unizin-hosted dev instance of Pressbooks.
 
